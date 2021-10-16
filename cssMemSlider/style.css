@@ -47,9 +47,9 @@ body {
 
 .slide1 { background-image: url(assets/mem-1.jpg); }
 .slide2 { background-image: url(assets/mem-2.jpg); }
-.slide3 { background-image: url(); }
-.slide4 { background-image: url(); }
-.slide5 { background-image: url(); }
+.slide3 { background-image: url(assets/mem-3.jpg); }
+.slide4 { background-image: url(assets/mem-4.jpg); }
+.slide5 { background-image: url(assets/mem-5.jpg); }
 
 #slide1:checked ~ .slider > .slide1,
 #slide2:checked ~ .slider > .slide2,
