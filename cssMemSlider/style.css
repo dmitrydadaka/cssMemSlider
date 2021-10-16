@@ -97,11 +97,11 @@ body {
 #slide3:checked ~ .controls label:nth-of-type(3),
 #slide4:checked ~ .controls label:nth-of-type(4),
 #slide5:checked ~ .controls label:nth-of-type(5) {
-	background: #ddd;
+	background: rgb(247, 234, 234);
 }
 
 .wrapper label:after {
-	border: 2px solid #ddd;
+	border: 2px solid black;
 	content: " ";
 	display: block;
 	height: 12px;
